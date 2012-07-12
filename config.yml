@@ -1,0 +1,9 @@
+AdminWatch:
+  cooldown: 5
+  prefix: AdminWatch
+  leftclick:
+    time: 6000
+    message: You set the time to day!
+  rightclick:
+    time: 18000
+    message: You set the time to night!
